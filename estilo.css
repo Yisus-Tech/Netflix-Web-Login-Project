@@ -1,0 +1,74 @@
+body {
+	background-color: black;
+}
+.logo-netflix {
+	width: 150px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.contenedor {
+	background: rgba(153, 153, 153, 0.4);
+	width: 350px;
+	margin: 0 0 0 40%;
+	border-radius: 10px;
+}
+.after-con {
+	padding: 30px 25px 100px 25px;
+}
+.titular {
+	color: white;
+	font-family: sans-serif;
+}
+label {
+	margin-right: 75px;
+	color: white;
+}
+.envio {
+	margin-bottom: 10px;
+}
+.envio input {
+	width: 305px;
+/*	height: 30px;*/
+	font-size: 20px;
+	font-family: sans-serif;
+	color: white;
+	background: red;
+	padding: 10px 15px 10px 15px;
+	border-style: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+.formulario input{
+	width: 272px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	background: rgba(0, 0, 0, 0.6);
+	color: white;
+	padding: 10px 15px 10px 15px;
+	border-style: none;
+	border-radius: 5px;
+}
+#p a {
+	color: white;
+	text-decoration: none;
+}
+.primera-vez {
+	display: flex;
+	align-items: center;
+}
+.primera-vez p {
+	color: whitesmoke;
+	opacity: 0.6;
+	font-family: sans-serif;
+	margin-right: 4px;
+}
+.primera-vez a {
+	color: whitesmoke;
+	opacity: 0.6;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+form {
+	margin-bottom: 50px;
+}
